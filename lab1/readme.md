@@ -99,4 +99,4 @@ As you can see, we almost guessed the key:
 
 We can fix the mistakes in the last message. Yet, the meaning we got:
 
-    The secuet message is: When using a stream cipher, never use the key more than once
+    The secret message is: When using a stream cipher, never use the key more than once
